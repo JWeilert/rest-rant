@@ -1,0 +1,31 @@
+/* div{
+    display: flex;
+    justify-content: center;
+} */
+
+h1 {
+    text-align: center;
+    color: cornflowerblue;
+  }
+  
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.center img{
+    height: 60vh;
+}
+
+a{
+    align-items: center;
+}
+
+p{
+    text-align: center;
+}
+
+.cards{
+    height: 50vh;
+    width: 25vw;
+}
